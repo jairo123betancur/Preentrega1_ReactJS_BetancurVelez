@@ -1,4 +1,4 @@
-import { TiShoppingCart } from 'react-icons/ti';
+import { TiShoppingCart } from "react-icons/ti";
 
 const CartWidget = () => {
   return (

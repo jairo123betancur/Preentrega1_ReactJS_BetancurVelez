@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
-import { IconDeviceLaptop } from '@tabler/icons-react';  
-import { IconDeviceDesktop } from '@tabler/icons-react'; 
+import PropTypes from "prop-types";
+import { IconDeviceLaptop } from "@tabler/icons-react";
+import { IconDeviceDesktop } from "@tabler/icons-react";
 
 const Greeting = (props) => {
   return (

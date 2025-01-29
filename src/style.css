@@ -5,14 +5,14 @@
   font-family: "Open Sans", sans-serif;
   box-sizing: border-box;
 }
-#flex-columnCart{
+#flex-columnCart {
   display: flex !important;
   flex-direction: row !important;
 }
-#items{
-  list-style: none; 
+#items {
+  list-style: none;
 }
-#elemSeleccionado{
+#elemSeleccionado {
   background-color: #06a434;
 }
 h1 {
@@ -58,12 +58,11 @@ h4 {
   font-weight: normal;
 }
 
-
 body {
   background-image: url(../img/nav/bg-tecnology.jpg);
   background-image: white;
   background-repeat: repeat;
-  background-attachment: scroll;  
+  background-attachment: scroll;
 }
 
 p {
@@ -72,7 +71,6 @@ p {
   font-weight: normal;
   text-decoration: none;
 }
-
 
 a {
   margin-top: 0px;
@@ -92,14 +90,12 @@ a {
   align-items: center;
 }
 
-
 .circle {
   background-color: #b9b9b9;
   border-radius: 50%;
   width: 20%;
   border-width: 10px;
 }
-
 
 .scrollbar {
   position: relative;
@@ -110,11 +106,9 @@ a {
   display: block;
 }
 
-
 .carousel-control-icon {
   filter: invert(1);
 }
-
 
 .contenedor {
   height: auto;
@@ -147,19 +141,16 @@ a {
   transition: all 1s;
 }
 
-
 .accion {
   display: flex;
   flex-direction: row;
 }
 
-
 nav {
-  background-color: #1A237E;
-  position:fixed;
+  background-color: #1a237e;
+  position: fixed;
   width: 100%;
 }
-
 
 .urlfondooscuro {
   color: lightblue;
@@ -194,13 +185,13 @@ nav {
 }
 
 ul {
-  list-style: none; 
-  padding: 0; 
-  margin: 0; 
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 ul li {
-  list-style: none; 
+  list-style: none;
 }
 
 ul li a {
@@ -228,6 +219,3 @@ ul li a:hover {
   transform: skew(-10deg);
   transition: all 1s;
 }
-
-
-
